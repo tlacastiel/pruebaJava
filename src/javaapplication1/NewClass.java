@@ -38,5 +38,13 @@ public class NewClass {
         asd.setMarca("IZE");
         System.out.println("PRINT="+asd.getAsd());        
         System.out.println("PRINT="+asd.getMarca());
+        System.out.println("PRINT="+asd.getAsd());        
+        System.out.println("PRINT="+asd.getMarca());
+        System.out.println("PRINT="+asd.getAsd());        
+        System.out.println("PRINT="+asd.getMarca());
+        System.out.println("PRINT="+asd.getAsd());        
+        System.out.println("PRINT="+asd.getMarca());
+        System.out.println("PRINT="+asd.getAsd());        
+        System.out.println("PRINT="+asd.getMarca());
     }
 }
