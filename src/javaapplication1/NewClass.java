@@ -33,6 +33,8 @@ public class NewClass {
     public static void main(String[] args) {
         NewClass asd = new NewClass();
         asd.setAsd("AFria");
+        asd.setAsd("AFria");
+        asd.setAsd("AFria");
         System.out.println("PRINT="+asd.getAsd());        
     }
 }
