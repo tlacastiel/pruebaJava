@@ -46,5 +46,6 @@ public class NewClass {
         System.out.println("PRINT="+asd.getMarca());
         System.out.println("PRINT="+asd.getAsd());        
         System.out.println("PRINT="+asd.getMarca());
+        System.out.println("PRINT="+asd.getMarca());
     }
 }
