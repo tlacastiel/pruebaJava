@@ -62,4 +62,7 @@ asd.setAsd("AFria");
         asd.setAsd("AFria");
 asd.setAsd("AFria");
     }
+    public void doSome(){
+        System.out.println("HDO SOME HDD");
+    }
 }
