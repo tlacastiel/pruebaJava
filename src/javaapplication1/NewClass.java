@@ -51,5 +51,7 @@ public class NewClass {
         asd.setAsd("AFria");
         asd.setAsd("AFria");
         asd.setAsd("AFria");
+        System.out.println("PRINT="+asd.getMarca());
+        System.out.println("PRINT="+asd.getMarca());
     }
 }
