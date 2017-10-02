@@ -51,7 +51,15 @@ public class NewClass {
         asd.setAsd("AFria");
         asd.setAsd("AFria");
         asd.setAsd("AFria");
-        System.out.println("PRINT="+asd.getMarca());
-        System.out.println("PRINT="+asd.getMarca());
+        System.out.println("PRINT1="+asd.getMarca());
+        System.out.println("PRINT2="+asd.getMarca());
+        System.out.println("PRIN3T="+asd.getMarca());
+        System.out.println("PRIN4T="+asd.getMarca());
+        asd.setAsd("AFria");
+asd.setAsd("AFria");
+        System.out.println("PRIN56T="+asd.getMarca());
+        System.out.println("PRIN664T="+asd.getMarca());
+        asd.setAsd("AFria");
+asd.setAsd("AFria");
     }
 }
